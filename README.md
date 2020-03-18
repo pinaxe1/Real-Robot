@@ -10,6 +10,7 @@ Plan
  this https://www.youtube.com/watch?v=Trxjd_2XwLs Prayer wheel
  or https://www.youtube.com/watch?v=x2qB0sR5IWA Water mill
  machines that could operate without humans.
+ https://www.youtube.com/watch?v=U62Joxvw1Nw   L'écrivain . There is hipotese that word "android" is derivation of inventors name Pierre Jaquet Droz. But he did called his creations automates.
  https://www.youtube.com/watch?v=HCndi1WC6iQ Zoltar
  https://www.youtube.com/watch?v=sjAZGUcjrP8 Assembly line
  
@@ -32,7 +33,10 @@ Plan
  Even prayer wheel has power source and actuator. And water mill has even a rudimentary control cirquit.
  Since power sources and actuators are well studied for ages we'll concentrate on control cirquits.
  
- Roomba has pretty elaborate control cirquit. It collects data from sensors to avoid obstacles (bumper sensors) to navigate home (IR beacon sensor) to check batterey level and power consumption (power sensors) new models even build a floor plan in their memory. But roomba sill behaves pretty lame because it is legally blind.
+ Roomba has pretty elaborate control cirquit. It collects data from sensors to avoid obstacles (bumper sensors) to navigate home (IR beacon sensor) to check batterey level and power consumption (power sensors) new models even build a floor plan in their memory. So I would consider it a real robot. It moves it acts independently in changing environment But Roomba sill behaves pretty lame because it is legally blind.
+ So let's add some vision to the system. It is easy to do. Get a computer and USB camera. Done. We having a picture of the environment. But what to do with it? How to transform image into meaningfull movement of actuator?
  
- 
- 
+Here is an example of 5DOF hydraulic arm made of shit and sticks. I mean Ice cream sticks and siringes. Siringes are actuators on the one side and control circuit on the other.
+https://youtu.be/G0NZAUjhiag?t=27
+
+If we will replace hydraulics with servos it would be easy to control the arm from a computer.
