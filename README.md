@@ -5,18 +5,21 @@ This repo intended as lecture for a kindergaden students.
 Plan
  What is a robot?
  is it it? https://www.youtube.com/watch?v=aw60Ma4c2bw
- Nope it looks much like a robot but it is not. It is AMP or Exosceleton. It requires a human to operate.
- So a robot is a machine. Machine is something that could work without human supervision.
+ Nope it looks much like a robot but it is not. It is AMP or Exosceleton. It requires a human to operate. It is de facto a puppet.
+ A a robot in contrary is a machine that operates without a human supervision.
  this https://www.youtube.com/watch?v=Trxjd_2XwLs Prayer wheel
  or https://www.youtube.com/watch?v=x2qB0sR5IWA Water mill
- machines that could operate without humans.
- https://www.youtube.com/watch?v=U62Joxvw1Nw   L'écrivain . There is hipotese that word "android" is derivation of inventors name Pierre Jaquet Droz. But he did called his creations automates.
+ machines that could operate without humans. So I would call them a first ancient robots. Actually even anrdoids (a human like robots) are not a novelty. L'écrivain by Pierre Jaquet Droz is an example. It is 250 years old already.
+ https://www.youtube.com/watch?v=U62Joxvw1Nw   L'écrivain. Some people even say that word "android" is derivation of inventors name Pierre Jaquet Droz. But he did called his creations automates.
+ Contemporary analogues of L'écrivain are
  https://www.youtube.com/watch?v=HCndi1WC6iQ Zoltar
+and  
  https://www.youtube.com/watch?v=sjAZGUcjrP8 Assembly line
+ They all are not flexible and would do theyr "dances" no matter what. Either they have customer or not Is there Car on the assembly line or not. They just perform sequence of commands recorded some way on mechanical disks like L'écrivain or in a computer memory as an assembly line.
  
  What is real robot? BumbleBee. We are not there yet.
- Could robot be without legs? Wally. Not there yer either. But
- Should it have hands? Not necessary. Roomba.
+ Could robot be without legs? Wally. Not there yer either. But should it have hands? Not necessary. 
+ Roomba.
  
  What all of them have in common? They act without human intervention and the more independent and adequate theyir behaviour in different environment and situations the more real they are. Let's range them.
  Transformers and Wally 100% They are smart and adaptable to any situations.
