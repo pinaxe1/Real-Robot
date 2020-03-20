@@ -33,10 +33,22 @@ Plan
  Even prayer wheel has power source and actuator. And water mill has even a rudimentary control cirquit.
  Since power sources and actuators are well studied for ages we'll concentrate on control cirquits.
  
- Roomba has pretty elaborate control cirquit. It collects data from sensors to avoid obstacles (bumper sensors) to navigate home (IR beacon sensor) to check batterey level and power consumption (power sensors) new models even build a floor plan in their memory. So I would consider it a real robot. It moves it acts independently in changing environment But Roomba sill behaves pretty lame because it is legally blind.
- So let's add some vision to the system. It is easy to do. Get a computer and USB camera. Done. We having a picture of the environment. But what to do with it? How to transform image into meaningfull movement of actuator?
+ Roomba has pretty elaborate control cirquit. It collects data from sensors to avoid obstacles (bumper sensors) to navigate home (IR beacon sensor) to check batterey level and power consumption (power sensors) new models even build a floor plan in their memory. So I would consider it a real robot. It moves it acts independently in changing environment But Roomba sill behaves pretty lame because it is legally blind. It sees nothing except an IR beacon.
+ So let's add some vision to the system. It is easy to do. Get a computer and a USB camera. Done. We having a picture of the environment. But what to do with it? How to transform image into meaningfull movement of actuators?
  
 Here is an example of 5DOF hydraulic arm made of shit and sticks. I mean Ice cream sticks and siringes. Siringes are actuators on the one side and control circuit on the other.
 https://youtu.be/G0NZAUjhiag?t=27
 
 If we will replace hydraulics with servos it would be easy to control the arm from a computer.
+Record a list of commands and then send those commands to the meArm. We will get something like this.
+https://www.youtube.com/watch?v=md4RQzFbGR0
+But this robot is still blind. If there were no hanoy disks it will perform the same dance anyway.
+Now we have to use information from the camera.
+OpenCV library would let us to do something like this.
+https://www.youtube.com/watch?v=s4jkMhVCvxM
+
+Next step in image processing is tensorflow FCN which lets us know not only a center position of an object but classify each point
+of the image.
+https://www.youtube.com/watch?v=K7VlA_Jq8ks
+
+
