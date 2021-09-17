@@ -18,7 +18,7 @@ and
  They all are not flexible and would do theyr "dances" no matter what. Either they have customer or not Is there Car on the assembly line or not. They just perform sequence of commands recorded some way on mechanical disks like L'écrivain or in a computer memory as an assembly line.
  
  What is real robot? BumbleBee. We are not there yet.
- Could robot be without legs? Wally. Not there yer either. But should it have hands? Not necessary. 
+ Could robot be without legs? Wally. Not there yet either. But should it have hands? Not necessary. 
  Roomba.
  
  What all of them have in common? They act without human intervention and the more independent and adequate theyir behaviour in different environment and situations the more real they are. Let's range them.
