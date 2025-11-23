@@ -10,7 +10,7 @@ Plan
  this https://www.youtube.com/watch?v=Trxjd_2XwLs Prayer wheel
  or https://www.youtube.com/watch?v=x2qB0sR5IWA Water mill
  machines that could operate without humans. So I would call them a first ancient robots. Actually even anrdoids (a human like robots) are not a novelty. L'écrivain by Pierre Jaquet Droz is an example. It is 250 years old already.
- https://www.youtube.com/watch?v=U62Joxvw1Nw   L'écrivain. Some people even say that word "android" is derivation of inventors name Pierre Jaquet Droz. But he did called his creations automates.
+ [https://www.youtube.com/watch?v=U62Joxvw1Nw](https://youtu.be/f0dLhRke2zc?t=132)   L'écrivain. Some people even say that word "droid" is derivation of inventors name Pierre Jaquet Droz. But he did called his creations automates.
  Contemporary analogues of L'écrivain are
  https://www.youtube.com/watch?v=HCndi1WC6iQ Zoltar
 and  
